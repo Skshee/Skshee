@@ -1,10 +1,6 @@
 ## Hi there I am Suvan👋
 
-And I love building projects !!!
-
-<img src = "https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU5MDY2MzMsIm5iZiI6MTc0NTkwNjMzMywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI5VDA1NTg1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiMmZiZDFiNWU4OWMyZWYzYWZlNDQxMTQ2OTFhZTIzNTY4M2JkYmExNTIzN2QwYTNhOGFlN2UzZGRiZTE5OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.byltwit2GWA2Agq1cjK7zr1xafR5B-NJyyltwAW4JEE"/>
-
-
+![Programming Jim Carrey](https://gifdb.com/images/high/programming-jim-carrey-aggressive-typing-wmu5az6tp699cfg9.webp)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suvan-shee-1772142a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvanshee@gmail.com) 
